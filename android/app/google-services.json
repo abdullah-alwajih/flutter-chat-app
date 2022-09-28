@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995927917346",
+    "project_id": "messageme-app-9e957",
+    "storage_bucket": "messageme-app-9e957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995927917346:android:76c9413595eec6df80db7b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995927917346-ofuepqh70vr72j733outplsgrpkrk1a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfXmv6U8hlyC-6VnYWfobcr0BjYfX5rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995927917346-ofuepqh70vr72j733outplsgrpkrk1a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
