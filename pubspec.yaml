@@ -27,10 +27,10 @@ dependencies:
   package_info_plus: ^1.4.3+1
 
   # TODO:: Firebase
-  firebase_core: ^1.23.0
-  firebase_auth: ^3.10.0
-  cloud_firestore: ^3.4.9
-  firebase_messaging: ^13.0.3
+  firebase_core: ^1.24.0
+  firebase_auth: ^3.11.0
+  cloud_firestore: ^3.5.0
+  firebase_messaging: ^13.0.4
   flutter_local_notifications: ^11.0.1
 
   # TODO:: State Management
